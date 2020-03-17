@@ -1,0 +1,2 @@
+# reglas-de-decision
+TABLAS DE DECISIÓN BAJO INCERTIDUMBRE
